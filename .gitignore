@@ -1,0 +1,11 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Coveralls coverage
+/coverage
+
+# System files
+.DS_Store
